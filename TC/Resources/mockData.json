@@ -1,0 +1,37 @@
+[
+  {
+      "id": 1,
+      "date_start": "1682064000",
+      "date_finish": "1682074800",
+      "name": "1 String",
+      "description": "Данные"
+  },
+  {
+      "id": 2,
+      "date_start": "1682161200",
+      "date_finish": "1682168400",
+      "name": "2 sntring",
+      "description": "Данные"
+  },
+  {
+      "id": 3,
+      "date_start": "1682229600",
+      "date_finish": "1682240400",
+      "name": "Обязательно",
+      "description": "Данные"
+  },
+  {
+      "id": 4,
+      "date_start": "1682067600",
+      "date_finish": "1682071200",
+      "name": "Не забыть",
+      "description": "Данные"
+  },
+  {
+      "id": 5,
+      "date_start": "1682179200",
+      "date_finish": "1682182800",
+      "name": "После работы",
+      "description": "Данные"
+  }
+]
